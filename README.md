@@ -6,6 +6,10 @@ Technologies : Business Intelligence
 
 Domain : Banking & Finance
 
+linkedIn URL : https://www.linkedin.com/feed/update/urn:li:activity:7024473312625881088/
+
+video link : https://drive.google.com/file/d/1YwMwOQB_CRICjLUhUTnxIZIhVi5WRGBf/view?usp=share_link
+
 The data is related to direct marketing campaigns (phone calls) of a Portuguese banking institution. The classification goal is to predict if the client will subscribe to a term deposit. The marketing campaigns were based on phone calls. Often, more than one contact to the same client was required, in order to access if the product (bank term deposit) would be subscribed or not.
 
 What is a Term Deposit?
